@@ -1,3 +1,8 @@
+##Clone the code
+
+```bash
+git clone
+
 ## Dataset Downloading
 
 To download the required datasets, execute the following commands in your terminal:
